@@ -65,4 +65,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://binlog.xyz/sitemap.xml
+Sitemap: https://www.binlog.xyz/sitemap.xml
