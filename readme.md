@@ -1,6 +1,10 @@
 # bingo's log
 
-共计 1 篇文章
+共计 2 篇文章
+
+## 2024
+
+- 02-10 [配置 Linux 下的 FTP 服务](https://www.binlog.cc/posts/vsftpd/ "2024-02-10 21:41:28")
 
 ## 2023
 
